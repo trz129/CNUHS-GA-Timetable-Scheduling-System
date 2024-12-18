@@ -1,9 +1,9 @@
 
-# CNHUS-GA Timetable Scheduling System  
+# CNUHS-GA Timetable Scheduling System  
 
 ## 📚 Overview  
 
-The **CNHUS-GA Timetable Scheduling System** is a graphical user interface (GUI) application designed to efficiently generate and manage high school timetables. This project is an improvement over the previous command-line interface (CUI) version released in **August 2024**, offering a more intuitive and user-friendly experience.
+The **CNUHS-GA Timetable Scheduling System** is a graphical user interface (GUI) application designed to efficiently generate and manage high school timetables. This project is an improvement over the previous command-line interface (CUI) version released in **August 2024**, offering a more intuitive and user-friendly experience.
 
 This tool is completely free to use and aims to streamline the scheduling process for teachers, students, and administrators.  
 
@@ -54,7 +54,7 @@ pip install pandas openpyxl
 ## 📸 Screenshots  
 
 ### Example Screenshot of the Interface  
-![Screenshot](/sample/AP-p4.png) find more? in the sample folder
+![Screenshot](/Screenshots/AP-p4.png) find more? in the sample folder
 
 ---
 
