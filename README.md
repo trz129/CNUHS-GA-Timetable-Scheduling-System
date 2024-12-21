@@ -54,7 +54,7 @@ pip install pandas openpyxl
 ## 📸 Screenshots  
 
 ### Example Screenshot of the Interface  
-![Screenshot](/Screenshots/Version1.0/AP-p4.png) want to find more? It's in the screenshot folder
+![Screenshot](/Screenshots/Version1.0/AP-V1.0.gif) want to find more? It's in the screenshot folder
 
 ---
 
